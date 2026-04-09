@@ -1,0 +1,14 @@
+# Bases de datos
+*.db
+
+# Reportes pesados
+reportes/
+*.xlsx
+
+# Entorno virtual
+venv/
+.venv/
+
+# Temporales
+__pycache__/
+.ipynb_checkpoints/

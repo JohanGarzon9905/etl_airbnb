@@ -1,0 +1,5 @@
+2026-04-08 21:46:31,598 - INFO - Fase de Transformacion iniciada.
+2026-04-08 21:46:40,734 - INFO - Fechas normalizadas en calendar
+2026-04-08 21:46:40,736 - WARNING - ADVERTENCIA: 'price' no existe en calendar
+2026-04-08 21:46:41,551 - WARNING - ADVERTENCIA: 'price' no existe en listings
+2026-04-08 21:46:45,219 - INFO - Fechas normalizadas en reviews

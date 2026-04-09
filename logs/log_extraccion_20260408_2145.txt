@@ -1,0 +1,4 @@
+2026-04-08 21:45:41,494 - INFO - Conectado a MongoDB: AirbnbBuenosAires
+2026-04-08 21:46:24,023 - INFO - Extraccion OK: calendar (9982072 registros)
+2026-04-08 21:46:25,272 - INFO - Extraccion OK: listings (27348 registros)
+2026-04-08 21:46:31,596 - INFO - Extraccion OK: reviews (1042702 registros)

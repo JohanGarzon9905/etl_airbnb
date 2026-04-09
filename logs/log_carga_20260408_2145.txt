@@ -1,0 +1,11 @@
+2026-04-08 21:47:41,239 - INFO - Carga SQL OK: calendar
+2026-04-08 21:47:42,476 - INFO - Carga SQL OK: listings
+2026-04-08 21:47:48,885 - INFO - Carga SQL OK: reviews
+2026-04-08 21:47:56,119 - WARNING - TABLA GRANDE: calendar excedio limite Excel. Usando muestra.
+2026-04-08 21:48:38,050 - INFO - Excel guardado: calendar
+2026-04-08 21:49:03,931 - INFO - Excel guardado: listings
+2026-04-08 21:49:06,940 - WARNING - TABLA GRANDE: reviews excedio limite Excel. Usando muestra.
+2026-04-08 21:50:00,485 - INFO - Excel guardado: reviews
+2026-04-08 21:50:00,931 - INFO - VERIFICACION OK: calendar (9982072 registros)
+2026-04-08 21:50:00,978 - INFO - VERIFICACION OK: listings (27348 registros)
+2026-04-08 21:50:01,169 - INFO - VERIFICACION OK: reviews (1042702 registros)
